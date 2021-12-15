@@ -7,7 +7,7 @@ import random
 api_instance = giphy_client.DefaultApi()
 
 gif_query = ""
-giphy_token = "lPUs2r3WcBwTXPH9q929Zyq3KcSRhUpT"
+giphy_token = ""
 
 
 async def search_gifs(query):

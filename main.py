@@ -2,7 +2,6 @@ import discord
 import os
 import giphy_client
 from giphy_client.rest import ApiException
-from pprint import pprint
 import random
 
 api_instance = giphy_client.DefaultApi()
